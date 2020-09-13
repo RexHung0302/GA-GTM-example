@@ -2,6 +2,8 @@
 
 [Demo](https://rexhung0302.github.io/GA-GTM-example/index.html)
 
+> Demo 會沒有任何反應，請自行 **Clone** 下來並且修改 **vue-gtm id**。
+
 ## 運作環境
 * Chrome v49+ or Firefox v45+ or Safari v9+
 * 一台筆電 或 桌電 或 近代的手機(至少要能跑 Angry Birds )
